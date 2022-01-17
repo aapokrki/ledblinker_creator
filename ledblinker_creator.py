@@ -1,7 +1,7 @@
 """
 COMP.CS.100 Ohjelmointi 1.
 Tekijä: Aapo Kärki
-Opiskelijanumero: H292001
+Opiskelijanumero: H292001git
 Mail: aapo.karki@tuni.fi
 
 An interactive tool to create simple animations for led blinkers.
