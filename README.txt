@@ -1,4 +1,4 @@
-!!!Remember: At the time of making this, I was a complete novice!!!
+
 COMP.CS.100 Ohjelmointi 1.
 
 "Led Blinker Helper"
